@@ -15,5 +15,13 @@ if (require.main === module) {
 
 module.exports = reverseString;
 
+// the problem in my own words:
+// write a method that takes a string and return the string in reverse
+// the string "hi" should return "ih"
+// how do I select each element in the string?
+// by iterating over the string 
+
 // Please add your pseudocode to this file
+// iterate over each element in a string:
+
 // And a written explanation of your solution
