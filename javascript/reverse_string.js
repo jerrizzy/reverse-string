@@ -48,8 +48,10 @@ module.exports = reverseString;
 // Please add your pseudocode to this file
 // create empty string:
 // get the length of the string reduce by 1 to use for the index:
-// as long the index is not 0, keep going down.
+// loop down or iterate backward
+// as long the index is not 0, keep looping down or iterating backward:
 // and after each looping add the element to the empty string
+// return the empty string
 
 // And a written explanation of your solution
 // initialize an emppty string to store the iterated strings then
